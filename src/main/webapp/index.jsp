@@ -2,16 +2,16 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to Jenkins </title>
+    <title>Welcome to Jenkins autodeployment </title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to</h1>
-      <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">My job is done with jenkins</h1>
-      <h2 class="text-center">Now you are with Narendra</h2>
+      <h1 class="text-center">My first job is done with jenkins</h1>
+      <h2 class="text-center">Happy To Learn Devops</h2>
   </div>
 </body>
 </html>
