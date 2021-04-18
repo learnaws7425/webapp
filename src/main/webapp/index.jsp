@@ -10,8 +10,8 @@
      <h1 class="text-center">Welcome to</h1>
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">My first job build sucessful with Jenkins</h1>
-      <h2 class="text-center">Happy To Learn Devops... </h2>
+      <h1 class="text-center">My first container sucessful with Docker </h1>
+      <h2 class="text-center">Happy To Learn Devops...Rakesh </h2>
   </div>
 </body>
 </html>
